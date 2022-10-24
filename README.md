@@ -5,9 +5,9 @@ Users can also add campgrounds they discovered and share it with others.
 
 
 <p align="center" display="flex" gap="3px">
-  <img src="./client/src/assets/road-trip-1.png" width="200px" />
-  <img src="./client/src/assets/road-trip-2.png" width="200px"/>
-  <img src="./client/src/assets/road-trip-4.png" width="200px"/>
+  <img src="./client/src/assets/road-trip-1.png" width="300px" />
+  <img src="./client/src/assets/road-trip-2.png" width="300px"/>
+  <img src="./client/src/assets/road-trip-4.png" width="300px"/>
 
 </p>
 
