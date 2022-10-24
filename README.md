@@ -20,17 +20,22 @@ Users can also add campgrounds they discovered and share it with others.
 npm install
 ```
 
+
 #### 2. Turn on the server
 
-```cd into /server
+```
 nodemon index.js
 ```
+- make sure you are in the server folder
+
 
 #### 3. Run the React client from another terminal
 
-``` cd in /client
+``` 
 npm start
 ```
+- make sure you are in the client folder
+
 
 ## Tech Stack
 
