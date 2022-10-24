@@ -29,12 +29,14 @@ nodemon index.js
 - make sure you are in the server folder
 
 
+
 #### 3. Run the React client from another terminal
 
 ``` 
 npm start
 ```
 - make sure you are in the client folder
+
 
 
 ## Tech Stack
