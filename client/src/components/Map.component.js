@@ -91,9 +91,10 @@ function Map ({ currentLocation, addNew }) {
   useEffect(() => {
     if (currentLocation.length) {
     // creates and renders a marker for each campground
+    console.log(campgrounds)
       campgrounds.forEach((campground) => {
-        const longitude = JSON.parse(campground.location.longitude);
-        const latitude = JSON.parse(campground.location.latitude);
+        const longitude = JSON.parse(campground.location.longitude || campground.location.lon);
+        const latitude = JSON.parse(campground.location.latitude || campground.location.lat);
         const id = campground._id;
 
         const pin = document.createElement('div');
