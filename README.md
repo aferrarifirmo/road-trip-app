@@ -4,15 +4,6 @@ Road Trip is made for users to find places where they can set camp or park a van
 Users can also add campgrounds they discovered and share it with others.
 
 
-<-- ## Screenshots
-
-<p align="center" display="flex" gap="3px">
-  <img src="./readme/buildiclientproject.png" width="200px" />
-  <img src="./readme/buildicreate.png" width="200px"/>
-  <img src="./readme/buildicontractorproject.png" width="200px"/>
-
-</p> -->
-
 ## Getting started
 
 #### 1. Run npm install in both the server and client folders
