@@ -46,7 +46,7 @@ npm start
 - [React](https://reactjs.org/) - Main front end framework
 - [Mapbox](https://www.mapbox.com/) - Mapbox GL JS library for maps
 
-### Backend End
+### Backe End
 
 - [Express](https://expressjs.com/) - Backend framework for Node.js
 - [MongoDB](https://www.mongodb.com/) - Database and Atlas for DB hosting
